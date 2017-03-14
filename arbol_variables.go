@@ -1,3 +1,6 @@
+//laura cucanchon
+//kevin parrado
+
 package main
 
 import (
@@ -6,7 +9,7 @@ import (
 	"bufio"
 	"os"
 )
-// arbol binario con valores enteros.
+
 type Arbol struct {
 	Izquierda  *Arbol
 	Valor string
